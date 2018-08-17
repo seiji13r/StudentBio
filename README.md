@@ -1,2 +1,3 @@
 # StudentBio
-StudingBio
+
+Excercise for student Bio
